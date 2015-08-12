@@ -99,7 +99,7 @@ public class ComparingTwoXML {
 			
 			if(node.getNodeType()==node.TEXT_NODE){
 				node.getParentNode().removeChild(node);
-				//System.out.println("#TEXT field Removed");
+				////System.out.println("#TEXT field Removed");
 			}
 			
 			if(node.getNodeType()==Node.ELEMENT_NODE){
