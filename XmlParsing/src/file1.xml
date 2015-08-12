@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ReadUsersResponse><User>
+        <EmailAddress>aaa</EmailAddress>
+        <Name>a</Name>
+        <ObjectId>101</ObjectId>
+    </User><User>
+        <EmailAddress>aaa</EmailAddress>
+        <Name>a</Name>
+        <ObjectId>101</ObjectId>
+    </User><User>
+        <EmailAddress>aaa</EmailAddress>
+        <Name>a</Name>
+        <ObjectId>101</ObjectId>
+    </User></ReadUsersResponse>

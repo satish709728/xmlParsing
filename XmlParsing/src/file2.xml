@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReadUsersResponse>
+    <User>
+        <EmailAddress>ddd</EmailAddress>
+        <Name>d</Name>
+        <ObjectId>104</ObjectId>
+    </User>
+    <User>
+        <EmailAddress>bbb</EmailAddress>
+        <Name>b</Name>
+        <ObjectId>103</ObjectId>
+    </User>
+    <User>
+        <EmailAddress>ccc</EmailAddress>
+        <Name>c</Name>
+        <ObjectId>107</ObjectId>
+    </User>
+</ReadUsersResponse>
